@@ -1,0 +1,444 @@
+,,,,,,,,,
+,,,,,,,,,
+,,SUPPLEMENTARY MATERIAL,,,,,,,
+,,Analysis of Biological Diversity between the cyanobacteria Cylindrospermospsis and Sphaerospermopsis,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,"Table S1 . Origin of the Cylindrospermopsis and Sphaerospermopsis strains used in this study and their taxonomic identification on NCBI, organized in ascending order based on the number of scaffolds..",,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,Organism,Taxonomy ID,Scafolds,Origin of Sample,Size,GC%,,
+,,C. raciborskii KLL07,683357,1,Israel,3.80818,40.2,,
+,,C.  raciborskii N8,1524929,1,China,3.85717, 40.1,,
+,,C. raciborskii Cr2010,2108055,1,Netherlands,3.75785,40.2,,
+,,C. curvispora GIHE G1,2666332,2,South Korea,4.05721,40117,,
+,,C. raciborskii DSH,3117726,2,China,4.0,40,,
+,,C. raciborskii GIHE 2018,2588993,3,South Korea,3.62982,40.2,,
+,,C. raciborskii CS-505,533240,6,Australia,3.9,40,,
+,,R. brookii D9,533247,47,Brazil,3.2,40,,
+,,C. raciborskii CENA 302,1170768,58,Brazil,3.5,40,,
+,,C. raciborskii CENA 303,1170769,77,Brazil,3.4,40.5,,
+,,C. raciborskii MVCC14,940191,99,Uruguay,3.6,40.1,,
+,,C. raciborskii KL1,2787621,100,USA,3.7,40,,
+,,C. raciborskii PAMP2012,2969974,134,Brazil,3.2,40,,
+,,C. sp. CR12,1747196,136,Malaysia,3.7,40,,
+,,C. raciborskii MVCC 19,940192,155,Uruguay,3.5,40,,
+,,C. raciborskii CS508,533243,162,Australia,3.6,40,,
+,,C. raciborskii CYRF,2021698,166,Brazil,4.2,40,,
+,,C. raciborskii 1523720,77022,173,Índia,3.2,40,,
+,,C. raciborskii CYLP,2021699,188,Brazil,4.2,40,,
+,,C. raciborskii CHAB3438,1480071,189,China,3.5,40.5,,
+,,C. raciborskii ITEPA-A1,1810942,195,Brazil,3.6,40,,
+,,S. torques-reginae ITEP-024,984208,1,Brazil,5.3,37.5,,
+,,S. kisseleviana NIES-73,1973480,2,Japan,5.4,37.5,,
+,,S. sp. SIO1G1,2607814,38,Puerto Rico,5.2,36.5,,
+,,S. sp. FACHB-1194,2692862,108,China,5.4,37.5,,
+,,S. sp. LEGE 08334,1828651,119,Mexico,5.5,37,,
+,,S. sp. LEGE 00249,1380707,177,Portugal,5.3,37.5,,
+,,,,,,,,,
+,,,,,,,,,
+,,Suplementary  Table S2. Proposed function of the proteins encoded by Saxitoxin biosynthetic gene cluster in the genomes S. torques reginae ITEP024 and S. sp. LEGE 08334,,,,,,,
+,,,,,,,,,
+,,Protein,Amino acids,Product,Strain,Organism,Identity (%),Function,Acession number
+,,sxtJ,747,carbamoyltransferase,S. torques reginae ITEP024,S. LEGE 08334,100,carbamoyltransferase,MBE9056840.1
+,,sxtK,54,DUF5989,S. torques reginae ITEP024,Nostoc sp. ChiQUE01a,89,DUF5989,MDZ8239473.1
+,,sxtJ,747,carbamoyltransferase,S. sp. LEGE 08334,S. torques ITEP024,100,carbamoyltransferase,QYX30560.1
+,,sxtK,54,DUF5989,S. sp. LEGE 08334,Nostoc sp. ChiQUE01a,89,DUF5989,MDZ8239473.1
+,,,,,,,,,
+,,,,,,,,,
+,,"Supplementary Table S3. Proposed function of the proteins encoded by saxitoxin biosynthetic gene cluster in the genomes of the C. raciborskii strains  R. brookii D9 , MVCC14, MVCC19,CENA302, ITEP-A1, and the CYRF.",,,,,,,
+,,,,,,,,,
+,,Protein,Amino acids,Product,Strains,Organism,Identity(%),Function,Acession number
+,,SxtA,1245,PKS,R. brookii D9,C. raciborskii T3,99,Polyketide synthase-related protein,ABI75094.1
+,,,1245,PKS,C. raciborskii CENA302,C. raciborskii T3,100,Polyketide synthase-related protein,ABI75094.1
+,,,1245,PKS,C. raciborskii ITEP-A1,C. raciborskii T3,100,Polyketide synthase-related protein,ABI75094.1
+,,,1245,PKS,C. raciborskii MVCC14,C. raciborskii T3,100,Polyketide synthase-related protein,ABI75094.1
+,,,1245,PKS,C. raciborskii MVCC19,C. raciborskii T3,99,Polyketide synthase-related protein,ABI75094.1
+,,,860,PKS,C. raciborskii CYRF,C. raciborskii T3,99,polyketide synthase-related protein,ABI75094.1
+,,SxtB,318,Cytidine deaminase,R. brookii D9,C. raciborskii T3,100,Cytidine deaminase,ABI75093.1
+,,,318,,C. raciborskii CENA302,R. brookii D9,100,SxtB,EFA72782.1
+,,,318,,C. raciborskii ITEP-A1,C. raciborskii T3,100,Cytidine deaminase,ABI75093.1
+,,,318,,"C. raciborskii MVCC14
+",C. raciborskii T3,100,Cytidine deaminase,ABI75093.1
+,,,318,,C. raciborskii MVCC19,C. raciborskii T3,89,Cytidine deaminase,WP_254011061.1
+,,,318,,C. raciborskii CYRF,Heteroscytonema crispum UCFS10,92,SxtB,AYN62266.1
+,,SxtC,117,Regulatory,R. brookii D9,C. raciborskii T3,100,SxtC,ABI75092.1
+,,,94,Regulatory,C. raciborskii CENA302,C. raciborskii T3,100,SxtC,ABI75092.1
+,,,94,Regulatory,C. raciborskii ITEP-A1,C. raciborskii T3,100,sxtC,ABI75092.1
+,,,117,Regulatory,C. raciborskii MVCC14,C. raciborskii T3,100,sxtC,ABI75092.1
+,,,94,Regulatory,C. raciborskii MVCC19,Heteroscytonema crispum UCFS10,91,sxtC,AYN62265.1
+,,,117,Regulatory,C. raciborskii CYRF,C. raciborskii T3,100,sxtC,AYN62265.1
+,,SxtD,252,Sterole desaturase-like protein,R. brookii D9,C. raciborskii T3,99,Sterole desaturase,ABI75089.1
+,,,252,Sterole desaturase-like protein,C. raciborskii CENA302,R. brookii D9,100,SxtD,EFA72785.1
+,,,252,Sterole desaturase-like protein,C. raciborskii ITEP-A1,R. brookii D9,100,SxtD,EFA72785.1
+,,,252,Sterole desaturase-like protein,C. raciborskii MVCC14,R. brookii D9,100,SxtD,EFA72785.1
+,,"SxtE
+
+
+
+
+
+
+
+
+
+
+
+
+",128,Unknown protein,R. brookii D9,C. raciborskii T3,99,SxtE,ABI75095.1
+,,,45,Unknown protein,C. raciborskii CENA302,C. raciborskii T3,100,SxtE,ABI75095.1
+,,,45,Unknown protein,C. raciborskii ITEP-A1,C. raciborskii T3,100,SxtE,ABI75095.1
+,,,128,Unknown protein,C. raciborskii MVCC14,C. raciborskii T3,100,SxtE,ABI75095.1
+,,,127,Unknown protein,C. raciborskii MVCC19,Microseira wollei,88,SxtE,ACZ26228.1
+,,,120,Unknown protein,C. raciborskii CYRF,Microseira wollei,92,SxtE,ACZ26228.1
+,,SxtF,471,  MATE,R. brookii D9,C. raciborskii T3,99,Sodium-driven multidrug and toxic compound extrusion protein,ABI75096.1
+,,,471,,C. raciborskii CENA302,C. raciborskii T3,100,Sodium-driven multidrug and toxic compound extrusion protein,ABI75096.1
+,,,471,,C. raciborskii ITEP-A1,C. raciborskii T3,100,Sodium-driven multidrug and toxic compound extrusion protein,ABI75096.1
+,,,471,,C. raciborskii MVCC14,C. raciborskii T3,100,Sodium-driven multidrug and toxic compound extrusion protein,ABI75096.1
+,,,471,,C. raciborskii MVCC19,C. raciborskii T3,100,Sodium-driven multidrug and toxic compound extrusion protein,ABI75096.1
+,,,220,,C. raciborskii CYRF,Heteroscytonema crispum UCFS10,83,SxtM1,AYN62272.1
+,,"
+SxtG",377,"
+Amidinotransferase",R. brookii D9,C. raciborskii T3,100,Amidinotransferase,ABI75097.1
+,,,377,,C. raciborskii CENA302,C. raciborskii T3,100,Amidinotransferase,ABI75097.1
+,,,377,,C. raciborskii ITEP-A1,C. raciborskii T3,100,Amidinotransferase,ABI75097.1
+,,,377,,C. raciborskii MVCC14,C. raciborskii T3,100,Amidinotransferase,ABI75097.1
+,,,"377
+
+",,C. raciborskii MVCC19,C. raciborskii T3,100,Amidinotransferase,ABI75097.1
+,,,377,,C. raciborskii CYRF,C. raciborskii T3,100,Amidinotransferase,ABI75097.1
+,,SxtH,334, Phenylpropionate dioxygenase,R. brookii D9,C. raciborskii T3,100,Phenylpropionate dioxygenase,ABI75098.1
+,,,334,,C. raciborskii CENA302,C. raciborskii T3,100,Phenylpropionate dioxygenase,ABI75098.1
+,,,334,,C. raciborskii ITEP-A1,C. raciborskii T3,100,Phenylpropionate dioxygenase,ABI75098.1
+,,,334,,C. raciborskii MVCC14,C. raciborskii T3,100,Phenylpropionate dioxygenase,ABI75098.1
+,,,334,,C. raciborskii MVCC19,C. raciborskii T3,100,Phenylpropionate dioxygenase,ABI75098.1
+,,,334,,C. raciborskii CYRF,C. raciborskii T3,100,Phenylpropionate dioxygenase,ABI75098.1
+,,"SxtI
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+",612,Carbamoyltransferase,R. brookii D9,C. raciborskii T3,100,NodU/CmcH-related carbamoyltransferase,ABI75099.1
+,,,596,,C. raciborskii CENA302,C. raciborskii T3,99,NodU/CmcH-related carbamoyltransferase,ABI75099.1
+,,,612,,C. raciborskii ITEP-A1,C. raciborskii T3,100,NodU/CmcH-related carbamoyltransferase,ABI75099.1
+,,,612,,C. raciborskii MVCC19,C. raciborskii T3,99,NodU/CmcH-related carbamoyltransferase,ABI75099.1
+,,,612,,C. raciborskii CYRF,C. raciborskii T3,99,NodU/CmcH-related carbamoyltransferase,ABI75099.1
+,,SxtJ,147,Regulatory,R. brookii D9,C. raciborskii T3,100,SxtJ,ABI75100.1
+,,,134,,C. raciborskii MVCC14,C. raciborskii T3,99,SxtJ,ABI75100.1
+,,,147,,C. raciborskii MVCC19,C. raciborskii MVCC14,100,SxtJ,OHY34958.1
+,,,147,,C. raciborskii CENA302,C. raciborskii MVCC14,100,SxtJ,OHY34958.1
+,,,147,,C. raciborskii CYRF,C. raciborskii MVCC14,100,SxtJ,OHY34958.1
+,,"
+   SxtK
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+",54,Unknown protein,C. raciborskii CENA302,C. raciborskii T3,100,SxtK,ABI75101.1
+,,,54,,C. raciborskii ITEP-A1,C. raciborskii T3,100,SxtK,ABI75101.1
+,,,54,,C. raciborskii MVCC19,C. raciborskii T3,100,SxtK,ABI75101.1
+,,,54,,C. raciborskii CYRF,C. raciborskii T3,100,SxtK,ABI75101.1
+,,,54,,C. raciborskii MVCC14,C. raciborskii T3,100,SxtK,ABI75101.1
+,,"
+       SxtL
+
+
+
+
+
+
+
+
+
+
+
+",435,"
+GDSL-lipase",R. brookii D9,C. raciborskii T3,100,GDSL-lipase,ABI75102.1
+,,,407,,C. raciborskii CENA302,C. raciborskii T3,99,GDSL-lipase,ABI75102.1
+,,,420,,C. raciborskii ITEP-A1,C. raciborskii T3,99,GDSL-lipase,ABI75102.1
+,,,419,,C. raciborskii MVCC14,C. raciborskii T3,99,GDSL-lipase,ABI75102.1
+,,,"419
+",,C. raciborskii MVCC19,C. raciborskii T3,99,GDSL-lipase,ABI75102.1
+,,,432,,C. raciborskiiCYRF,C. raciborskii T3,99,GDSL-lipase,ABI75102.1
+,,SxtM,475,MATE,R. brookii D9,C. raciborskii MVCC14,99,"SxtM, partial",AFQ99040.1
+,,,429,,C. raciborskii CENA302,C. raciborskii MVCC14,99,"SxtM, partial",AFQ99040.1
+,,,482,,C. raciborskii ITEP-A1,C. raciborskii T3,99,Sodium-driven multidrug and toxic compound extrusion protein,ABI75103.1
+,,,475,,C. raciborskii MVCC14,R. brookii D9,99,SxtSUL,EFA72771.1
+,,,475,,C. raciborskii MVCC19,C. raciborskii MVCC14,99,SxtM,AFQ99040.1
+,,,182,,C. raciborskii CYRF,C. raciborskii T3,99,Sodium-driven multidrug and toxic compound extrusion protein,"ABI75103.1
+
+
+
+
+
+"
+,,SxtN,302,Sulfotransferase,R. brookii D9,Microseira wollei,89,SxtSUL,ACG63834.1
+,,,302,,C. raciborskii CENA302,R. brookii D9,100,SxtSUL,EFA72773.1
+,,,302,,C. raciborskii MVCC14,R. brookii D9,100,SxtSUL,EFA72773.1
+,,,270,,C. raciborskii CYRF,C. raciborskii T3,100,SxtSUL,EFA72773.1
+,,SxtO,200,Adenylylsulfate kinase,R. brookii D9,C. raciborskii T3,100,Adenylylsulfate kinase,ABI75115.1
+,,,159,,C. raciborskii CENA302,R. brookii D9,100,Adenylylsulfate kinase,EFA72764.1
+,,,200,,C. raciborskii MVCC14,R. brookii D9,100,Adenylylsulfate kinase,EFA72764.1
+,,,200,,C. raciborskii MVCC19,C. raciborskii MVCC14,100,Adenylylsulfate kinase,OHY34903.1
+,,,200,,C. raciborskii MVCC19,C. raciborskii CENA302,100,Adenylylsulfate kinase,OPH09277
+,,,200,,C. raciborskii MVCC19,C. raciborskii T3,100,Adenylylsulfate kinase,ABI75115.1
+,,,200,,C. raciborskii CYRF,C. raciborskii T3,100,Adenylylsulfate kinase,ABI75115.1
+,,SxtP,408,RTX toxin,R. brookii D9,C. raciborskii T3,99,Putative saxitoxin-binding protein,ABI75114.1
+,,,408,,C. raciborskii CENA302,C. raciborskii T3,100,Putative saxitoxin-binding protein,ABI75114.1
+,,,408,,C. raciborskii MVCC14,C. raciborskii T3,100,Putative saxitoxin-binding protein,ABI75114.1
+,,,408,,C. raciborskii MVCC19,C. raciborskii T3,100,Putative saxitoxin-binding protein,ABI75114.1
+,,,408,,C. raciborskii CYRF,C. raciborskii T3,100,"Putative saxitoxin-binding protein
+",ABI75114.1
+,,    SxtQ,258,Unknown protein,R. brookii D9,C. raciborskii T3,99,SxtQ,ABI75113.1
+,,,239,,C. raciborskii CENA302,R. brookii D9,100,SxtQ,EFA72766.1
+,,,239,,C. raciborskii MVCC14,R. brookii D9,100,SxtQ,EFA72766.1
+,,,239,,C. raciborskii MVCC19,C. raciborskii T3,100,SxtQ,EFA72766.1
+,,,239,,C. raciborskii CYRF,C. raciborskii T3,100,SxtQ,EFA72766.1
+,,SxtR,258,   Acyl transferase,R. brookii D9,C. raciborskii T3,100,Acyl-CoA N-acyltransferase,ABI75112.1
+,,,258,,C. raciborskii CENA302,C. raciborskii T3,100,Acyl-CoA N-acyltransferase,ABI75112.1
+,,,258,,C. raciborskii MVCC14,C. raciborskii T3,100,Acyl-CoA N-acyltransferase,ABI75112.1
+,,,258,,C. raciborskii MVCC19,C. raciborskii T3,100,Acyl-CoA N-acyltransferase,ABI75112.1
+,,,258,,C. raciborskii CYRF,C. raciborskii T3,100,Acyl-CoA N-acyltransferase,ABI75112.1
+,,"   SxtS
+
+
+
+
+
+
+
+
+
+
+
+",241,Phytanoyl-CoA dioxygenase,R. brookii D9,C. raciborskii T3,99,Phytanoyl-CoA dioxygenase,ABI75110.1
+,,,241,,C. raciborskii CENA302,R. brookii D9,100,SxtS,EFA72768.1
+,,,241,,C. raciborskii MVCC14,R. brookii D9,100,SxtS,EFA72768.1
+,,,241,,C. raciborskii MVCC19,C. raciborskii T3,99,Phytanoyl-CoA dioxygenase,ABI75110
+,,,241,,C. raciborskii CYRF,C. raciborskii T3,100,Phytanoyl-CoA dioxygenase,ABI75110
+,,SxtT,334,Phenylpropionate dioxygenase,R. brookii D9,C. raciborskii T3,99,Phenylpropionate dioxygenase,ABI75109.1
+,,,334,,C. raciborskii CENA302,R. brookii D9,100,SxtT,EFA72769.1
+,,,334,,C. raciborskii MVCC14,R. brookii D9,100,SxtT,EFA72769.1
+,,,334,,C. raciborskii MVCC19,R. brookii D9,100,SxtT,EFA72769.1
+,,,334,,C. raciborskii CYRF,C. raciborskii T3,100,Phenylpropionate dioxygenase,EFA72769.1
+,,SxtU,248,Alcohol dehydrogenase,R. brookii D9,C. raciborskii T3,100,Short-chain alcohol dehydrogenase,ABI75108.1
+,,,248,,C. raciborskii CENA302,R. brookii D9,100,SxtU,EFA72770.1
+,,,248,,C. raciborskii MVCC14,R. brookii D9,100,SxtU,EFA72770.1
+,,,248,,C. raciborskii MVCC19,R. brookii D9,93,SxtU,EFA72770.1
+,,,249,,C. raciborskii CYRF,C. raciborskii T3,100,Short-chain alcohol dehydrogenase,ABI75108.1
+,,SxtDIOX,334,(2Fe-2S)-binding protein,R. brookii D9,Microseira wollei,86,SxtDIOX,ACG63835.1
+,,,334,,C. raciborskii CENA302,R. brookii D9,99,SxtDIOX,EFA72772.1
+,,,334,,C. raciborskii MVCC14,R. brookii D9,99,SxtDIOX,EFA72772.1
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,"Supplementary Table S4. Proposed function of the proteins encoded by cylindrospermopsin biosynthetic gene cluster in the genomes of the C. raciborskii strains CS-505, CR12, DSH and CHAB-3438.",,,,,,,
+,,,,,,,,,
+,,Protein,Amino acids,Proposed function,Strain,Organism,Identity(%),Function,Acession number
+,,CyrA,391,Amidinotransferase,C. raciborskii CS-505, C. raciborskii AWT205,100,Amidinotransferase,ABX60160.1
+,,,391,Amidinotransferase,C. raciborskii CR12, C. raciborskii AWT205,99,Amidinotransferase,ABX60160.1
+,,,391,Amidinotransferase,C. raciborskii CHAB3438, C. raciborskii AWT205,100,Amidinotransferase,ABX60160.1
+,,CyrB,2917,NRPS/PKS,C. raciborskii CS-505, C. raciborskii AWT205,100,Mixed NRPS/PKS,ABX60161.1
+,,,2917,NRPS/PKS,C. raciborskii CR12, C. raciborskii AWT205,100,Mixed NRPS/PKS,ABX60161.1
+,,,2917,NRPS/PKS,C. raciborskii CHAB3438,Raphidiopsis curvata HB1,100,Mixed NRPS/PKS,AHN91606.1
+,,"
+
+CyrC
+
+
+
+
+
+
+",1667,"
+PKS",C. raciborskii CS-505, C. raciborskii AWT205,99,Polyketide synthase,ABX60163.1
+,,,1667,"
+PKS",C. raciborskii CR12, C. raciborskii AWT205,99,Polyketide synthase,ABX60163.1
+,,,1667,"
+PKS",C. raciborskii CHAB3438,Raphidiopsis curvata HB1,100,"
+Polyketide synthase",AHN91608.1
+,,CyrD,1851,PKS,C. raciborskii CS-505, C. raciborskii AWT205,100,Polyketide synthase,ABX60152.1
+,,,1876,,C. raciborskii CR12, C. raciborskii AWT205,99,Polyketide synthase,ABX60152.1
+,,,1876,,C. raciborskii CHAB3438,Raphidiopsis curvata HB1,100,Polyketide synthase,AHN91609.1
+,,CyrE,1888,PKS,C. raciborskii CS-505, C. raciborskii AWT205,99,Polyketide synthase,ABX60162.1
+,,,1888,,C. raciborskii CR12, C. raciborskii AWT205,99,Polyketide synthase,ABX60162.1
+,,,1888,,C. raciborskii CHAB3438,Raphidiopsis curvata HB1,100,Polyketide synthase,AHN91607.1
+,,CyrF,1357,PKS,C. raciborskii CS-505, C. raciborskii AWT205,100,Polyketide synthase,ABX60153.1
+,,,1357,,C. raciborskii CR12, C. raciborskii AWT205,99,Polyketide synthase,ABX60153.1
+,,,1357,,C. raciborskii CHAB3438,Raphidiopsis curvata CHAB1150,100,Polyketide synthase,AFC35246.1
+,,CyrG,478,Uracil ring formation,C. raciborskii CS-505, C. raciborskii AWT205,100,Putative uracil ring formation,ABX60154.1
+,,,478,,C. raciborskii CR12, C. raciborskii AWT205,99,Putative uracil ring formation,ABX60154.1
+,,,478,,C. raciborskii CHAB3438,Raphidiopsis curvata HB1,99,Putative uracil ring formation,AHN91611.1
+,,"
+CyrI
+
+
+
+
+
+
+
+
+",276,Hydroxylation of C-7,C. raciborskii CS-505, C. raciborskii CHAB3438,100,Putative 2-oxoglutarate-dependent iron oxygenase,AHN91588.1
+,,,276,,C. raciborskii CS-505,C. raciborskii CR12,99,Putative 2-oxoglutarate-dependent iron oxygenase,WP_057178790
+,,,278,,C. raciborskii CR12, C. raciborskii CHAB3438,99,Putative 2-oxoglutarate-dependent iron oxygenase,AHN91588.1
+,,,276,,C. raciborskii CHAB3438,C. raciborskii CR12,99,Putative 2-oxoglutarate-dependent iron oxygenase,WP_057178790.1
+,,CyrK,465,Exporter,C. raciborskii CS-505, C. raciborskii AWT205,99,Multidrug exporter MatE,ABX60156.1
+,,,465,,C. raciborskii CR12,C. raciborskii CS-505,99,MATE family efflux transporter,OBU75962.1
+,,,451,,C. raciborskii CHAB3438,Raphidiopsis curvata CHAB1150,100,Multidrug exporter MatE,AFC35248.1
+,,CyrL,249,Transposase, C. raciborskii CS-505, C. raciborskii AWT205,100,Transposase,ABX60157.1
+,,,153,,C. raciborskii CHAB3438,C. raciborskii CR12,98,Transposase,WP_161808566.1
+,,CyrH,476,Uracil ring formation,C. raciborskii CS-505, C. raciborskii AWT205,100,Amidohydrolase,ABX60158.1
+,,,476,,C. raciborskii CR12, C. raciborskii AWT205,99,Amidohydrolase,ABX60158.1
+,,,476,,C. raciborskii CHAB3438,Raphidiopsis curvata CHAB1150,100,Amidohydrolase,AHN91614.1
+,,CyrJ,259,Sulfotransferase, C. raciborskii CS-505, C. raciborskii AWT205,100,Putative sulfotransferase,ABX60159.1
+,,,259,,C. raciborskii CR12,C. raciborskii AWT205,99,Putative sulfotransferase,ABX60159.1
+,,,261,,C. raciborskii CHAB3438,Raphidiopsis curvata HB1,100,Putative sulfotransferase,AHN91615
+,,CyrM,"105
+
+
+",Transposase,C. raciborskii CS-505, C. raciborskii AWT205,97,Transposase protein,ABX60157.1
+,,CyrN,"219
+
+",Adenylyl-sulfate kinase, C. raciborskii CS-505, C. raciborskii AWT205,100,Adenylylsulfate kinase,ABX60164.1
+,,CyrO,515,Regulator,C. raciborskii CS-505, C. raciborskii AWT205,99,Hypothetical protein,AHN91599.1
+,,,,,,,,,
+,,,,,,,,,
+,,Suplementary Table S5. Proposed function of the proteins encoded by anabaenopeptin biosynthetic gene cluster of the  Sphaerospermopsis group.,,,,,,,
+,,,,,,,,,
+,,Protein,Amino acids,Product,Strain,Organism,Identity (%),Function,Acession number
+,,aptA1,4161,"Siderophore biosynthesis non-ribosomal peptide synthetase modules
+",S. torques ITEP024,Aphanizomenon flos-aquae,90,"non-ribosomal
+peptide synthetase
+",WP_190382984.1
+,,,4109,"Siderophore biosynthesis non-ribosomal peptide synthetase modules
+",S. Kisseleviana NIES 73,Dolichospermum sp. LEGE 00246,83,,WP_1939621
+,,"
+
+aptA2",2208,Polyketide synthase,S. torques ITEP024,S. LEGE 08334,97,Polyketide synthase,WP_194056036.1
+,,,2226,,S. Kisseleviana NIES 73,S. FACHB 1194,95,Polyketide synthase,WP_190346674.1
+,,,2186,,S. sp SIO1G1,S. LEGE 08334,74,Polyketide synthase,WP_194056036.1
+,,,2224,,S. FACHB 1194,S. Kisseleviana NIES 73,96,Polyketide synthase,WP_096571779.1
+,,,2212,,S. LEGE 08334,S. torques reginae ITEP024,97,Polyketide synthase,WP_220609901.1
+,,"
+ aptB",1069,Siderophore biosynthesis non-ribosomal peptide,S. torques ITEP024,S. LEGE 08334,95,non-ribosomal peptide synthetase,WP_194056038.1
+,,,1087,,S. Kisseleviana NIES 73,S. FACHB 1194,95,amino acid  adenylation,WP_242052557.1
+,,,1074,,S. sp SIO1G1,S. torques ITEP024,72,non-ribosomal peptide synthetase,WP_220609902.1
+,,,1088,,S. FACHB 1194,S. Kisseleviana NIES 73,95,non-ribosomal peptide synthetase,WP_096571778.1
+,,,1073,,S. LEGE 08334,S. torques reginae ITEP024,95,non-ribosomal peptide synthetase,WP_220609902.1
+,,"
+
+    AptC",2576,"
+
+
+
+
+Siderophore biosynthesis non-ribosomal peptide synthetase modules
+
+
+
+
+
+
+
+
+",S. torques ITEP024,Nodularia spumigena,90,non-ribosomal peptide synthetase,WP_063874470.1
+,,,2587,,S. Kisseleviana NIES 73,Dolichospermum sp. LEGE 00246,97,non-ribosomal peptide synthetase,WP_193962698.1
+,,,2562,,"S. sp SIO1G1
+
+
+
+",Aphanizomenonaceae cyanobacterium TIOX110,74,amino acid adenylation,WZB86541.1
+,,,2570,,S. FACHB 1194,S. Kisseleviana NIES 73,81,"non-ribosomal peptide synthetase
+
+",WP_096571777.1
+,,,2200,,S. LEGE 08334,S. FACHB 1194,78,amino acid adenylation,WP_190346675.1
+,,aptD,1415,"
+Siderophore biosynthesis non-ribosomal peptide",S. torques ITEP024,S. LEGE 08334,88,amino acid adenylation,WP_194056042.1
+,,,1363,,S. Kisseleviana NIES 73,Dolichospermum,93,amino acid adenylation,WP_193962697.1
+,,,1397,,S. sp SIO1G1,Aphanizomenonaceae cyanobacterium TIOX110,74,amino acid adenylation,WZB86542.1
+,,,1419,,S. FACHB 1194,S. Kisseleviana NIES 73,84,non-ribosomal peptide synthetase,WP_272110476.1
+,,,1420,,S. LEGE 08334,S. torques reginae ITEP024,88,non-ribosomal peptide synthetase,WP_220609905.1
+,,aptE,392,"
+2-isopropylmalate synthase
+",S. torques ITEP024,S. FACHB 1194,98,"
+2-isopropylmalate synthase
+
+",WP_190346677.1
+,,,392,,S. LEGE 08334,S. Kisseleviana NIES 73,93,,WP_272110474.1
+,,,253,,S. Kisseleviana NIES 73,S. FACHB 1194,100,,MBD2144629.1
+,,,392,,S. LEGE 08334,S. Kisseleviana NIES 73,93,,WP_272110474.1
+,,aptF,813,"
+ATP-binding cassette
+",S. FACHB 1194,Sphaerospermopsis reniformis,95,"ATP-binding cassette
+",GCL35044.1
+,,,761,,S. sp SIO1G1,Okeanomitos corallinicola,73,,WZB86544.1
+,,,803,,S. torques ITEP024,S. FACHB 1194,86,,WP_190346678
+,,,761,,S. Kisseleviana NIES 73,S. LEGE 08334,94,,MBE9057071.1
+,,,769,,S. LEGE 08334,S. Kisseleviana NIES 73,94,,BAZ82708.1
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,Suplementary  Table S6. Proposed function of the proteins encoded by Sphaerociclamida biosynthetic gene cluster,,,,,,,
+,,,,,,,,,
+,,Protein,Amino acids,Product,Strain,Organism,Identity (%),Function,Acession number
+,,sphG,710,cyanobactin maturation protease,S. sp. LEGE 00249,Aphanizomenon gracile PMC638.10,95,cyanobactin maturation protease,MDM3844803.1
+,,sphF,290,LynF/TruF/PatF family peptide O-prenyltransferase,S. sp. LEGE 00249,Chrysosporum ovalisporum Ak1311,99,LynF/TruF/PatF family peptide O-prenyltransferase,MDH6088854.1
+,,sphE,47,anacyclamide/piricyclamide,S. sp. LEGE 00249,Dolichospermum sp. JUN01,97,anacyclamide/piricyclamide,MBO1057685.1
+,,sphA,667,cyanobactin maturation protease,S. sp. LEGE 00249,Sphaerospermopsis aphanizomenoides,95,cyanobactin maturation protease,MBE9236410.1
+,,,,,,,,,
+,,,,,,,,,
+,,Suplementary  Table S7. Proposed function of the proteins encoded by Nocuolin biosynthetic gene cluster,,,,,,,
+,,,,,,,,,
+,,Protein,Aminoacids,Product,Strain,Organism,Identity (%),Function,Acession number
+,,nocT,597,AarF/ABC1/UbiB kinase family protein,S. sp. LEGE 00249,S. Aphanizomenoids,99,AarF/ABC1/UbiB kinase family protein,MBE9236862.1
+,,nocS,2101,tectonin domain-containing protein,S. sp. LEGE 00249,S. FACHB 1194,96,tectonin domain-containing protein,WP_242052555.1
+,,nocR,426,NocR,S. sp. LEGE 00249,Nostoc sp. CCAP 1453/38,82,NocR,AKL71651.1
+,,nocQ,2325,Oxidoreductase,S. sp. LEGE 00249,S. Aphanizomenoids,99,oxidoreductase,MBE9235326.1
+,,nocP,1286,Polyketide synthase,S. sp. LEGE 00249,S. Aphanizomenoids,99,polyketide synthase, MBE9235325.1
+,,nocO,452,hypothetical protein,S. sp. LEGE 00249,S. Aphanizomenoids,87,Hypothetical protein,MBE9235324.1
+,,nocM,92,acyl carrier protein,S. sp. LEGE 00249,S. Aphanizomenoids,92,acyl carrier protein,MBE9235322.1
+,,nocN,471,hypothetical protein,S. sp. LEGE 00249,Anabaena sp. PCC 7108,87,Hypothetical protein,WP_016949101.1
+,,nocK,397,DUF3419 family protein,S. sp. LEGE 00249,S. Aphanizomenoids,99,DUF3419 family protein,MBE9235319
+,,nocJ,349,NocJ,S. sp. LEGE 00249,Nostoc sp. CCAP 1453/38,89,NocJ,AKL71643.1
+,,nocI,372,acyl-CoA dehydrogenase,S. sp. LEGE 00249,S. Aphanizomenoids,100,"acyl-CoA dehydrogenase
+",MBE9235317.1
+,,nocH,698,AMP-binding protein,S. sp. LEGE 00249,S. Aphanizomenoids,100,AMP-binding protein,MBE9235316.1
+,,nocG,347,3-oxoacyl-[acyl-carrier-protein] synthase,S. sp. LEGE 00249,S. Aphanizomenoids,99,3-oxoacyl-[acyl-carrier-protein] synthase III,MBE9235315.1
+,,nocF,872,aminotransferase,S. sp. LEGE 00249,S. aphanizomenoides BCCUSP55,89,aminotransferase,MBK1987674
+,,nocE,486,NAD(P)-binding,S. sp. LEGE 00249,S. Aphanizomenoids,100,NAD(P)-binding,MBE9235313.1
+,,nocD,231,Isoprenylcysteine carboxylmethyltransferase,S. sp. LEGE 00249,S. Aphanizomenoids,100,Isoprenylcysteine carboxylmethyltransferase,MBE9235312.1
+,,nocB,184,NocB,S. sp. LEGE 00249,Nostoc sp. CCAP 1453/38,89,NocB,AKL71634.1
+,,nocA,214,NocA,S. sp. LEGE 00249,Nostoc sp. CCAP 1453/38,90,NocA,AKL71633.1
