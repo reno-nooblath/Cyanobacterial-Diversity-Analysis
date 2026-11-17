@@ -1,1 +1,58 @@
-
+DOCUMENTAÇÃO TÉCNICA DE SOFTWARE E PIPELINE COMPUTACIONAL
+Módulo de Análise Pan-Genômica Baseado em get_homologues para Linhagens de
+Cylindrospermopsis e Sphaerospermopsis
+1. Identificação e Informações Gerais
+• Título do Projeto/Ferramenta: Cyanobacterial-Diversity-Analysis
+• Autoria Principal: Reno S. Nooblath et al.
+• Base Tecnológica e Referência: Utilização e adaptação de scripts em
+Bioinformática integrando a ferramenta Get_Homologues e servidores de anotação RAST.
+• Contexto de Aplicação: Investigação da diversidade biológica, divergência
+genômica e arquitetura do pangenoma (core e acessório) de 27 genomas bacterianos.
+2. Descrição Funcional
+• Este pacote computacional (pipeline de scripts) foi desenvolvido para automatizar o
+processamento em larga escala de genomas de cianobactérias, permitindo extrair e
+comparar o genoma core (genes essenciais compartilhados) e o pangenoma (repertório
+total de genes) entre diferentes regiões geográficas (Américas e Não-Américas). O
+sistema processa dados extraídos do GenBank formatados via RAST Server para
+identificar agrupamentos ortólogos robustos.
+3. Especificações Algorítmicas e Parâmetros Técnicos
+• O pipeline integra três algoritmos centrais implementados na suíte get_homologues
+para garantir máxima confiabilidade estatística e mitigar fragmentações comuns em
+montagens draft de genomas bacterianos:
+• Best Database Hits (BDBH): Identificação de ortólogos baseada em alinhamentos
+recíprocos de melhor impacto.
+• Markov Cluster (OMCL): Agrupamento baseado em fluxos de Markov para detecção
+de famílias gênicas.
+• Low-Polynomial Algorithm (COGtriangles): Construção de trios de ortólogos baseada
+em similaridade de sequências em baixa polinomialidade.
+• Parâmetros de Configuração Padrão:
+• Threshold de E-value: $1 \times 10^{-5}$.
+• Cobertura mínima (Coverage): $75\%$.
+• Escopo de Dados de Entrada: 21 genomas de Cylindrospermopsis e 6 genomas de
+Sphaerospermopsis (família Aphanizomenonaceae).
+4. Estrutura de Pastas e Organização do Código Fonte
+• A estrutura do repositório/pasta do programa deve ser apresentada à banca com a
+seguinte organização modular:
+5. Exemplo de Comandos de Execução Implementados no Pipeline
+• Os scripts automatizam a execução dos comandos centrais da ferramenta
+get_homologues:
+• Bash• # Execução da análise pangenômica utilizando o algoritmo BDBH com e-value de
+1e-05 e 75% de cobertura
+• get_homologues.pl -d ./01_input_genomes -e 1e-05 -c 75 -t 0 -D
+• # Execução utilizando o algoritmo OMCL (Markov Cluster)
+• get_homologues.pl -d ./01_input_genomes -e 1e-05 -c 75 -t 0 -M
+• # Execução utilizando o algoritmo COGtriangles
+• get_homologues.pl -d ./01_input_genomes -e 1e-05 -c 75 -t 0 -G
+• # Comparação e geração de matrizes de pangenoma (Core vs Acessório)
+• compare_clusters.pl -t 0 -m -n
+6. Resultados e Validação Científica (Comprovação para a Banca)
+• A eficácia e a robustez técnico-científica deste programa/pipeline foram validadas e
+publicadas em estudo de alto impacto, cujos resultados principais incluem:
+• Estimativa do Pangenoma para Sphaerospermopsis: ~9.000 genes distintos, com
+um genoma core estimado em 2.375 genes.
+• Estimativa para C. raciborskii (Américas): ~6.000 genes distintos, com core de 1.410
+genes.
+• Estimativa para C. raciborskii (Não-Américas): ~5.000 genes distintos, com core de
+2.249 genes.
+• Identificação de Regiões Variáveis: Detecção de ilhas genômicas associadas a
+clusters de toxinas (como saxitoxina e cilindrospermopsin) no pangenoma acessório.
